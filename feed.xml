@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fatih Turan</title>
+    <description>Arayüz ve Etkileşim Tasarımcısı</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Js Py</title>
+        <description>
+</description>
+        <pubDate>Thu, 03 Jul 2014 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2014/07/03/Js-Py/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/03/Js-Py/</guid>
+      </item>
+    
+      <item>
+        <title>Koding</title>
+        <description>
+</description>
+        <pubDate>Wed, 02 Jul 2014 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2014/07/02/Koding/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/02/Koding/</guid>
+      </item>
+    
+      <item>
+        <title>Radity</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jul 2014 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2014/07/01/Radity/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/01/Radity/</guid>
+      </item>
+    
+      <item>
+        <title>Mobil Belediyecilik</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jul 2014 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2014/07/01/Mobil-Belediyecilik/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/01/Mobil-Belediyecilik/</guid>
+      </item>
+    
+      <item>
+        <title>Pollcraft</title>
+        <description>
+</description>
+        <pubDate>Mon, 30 Jun 2014 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2014/06/30/pollcraft/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/06/30/pollcraft/</guid>
+      </item>
+    
+      <item>
+        <title>Sivrisinema</title>
+        <description>
+</description>
+        <pubDate>Sun, 29 Jun 2014 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2014/06/29/sivrisinema/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/06/29/sivrisinema/</guid>
+      </item>
+    
+      <item>
+        <title>Kgt</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Mar 2013 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2013/03/01/kgt/</link>
+        <guid isPermaLink="true">http://localhost:4000/2013/03/01/kgt/</guid>
+      </item>
+    
+      <item>
+        <title>Triponi</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Feb 2013 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2013/02/01/Triponi/</link>
+        <guid isPermaLink="true">http://localhost:4000/2013/02/01/Triponi/</guid>
+      </item>
+    
+      <item>
+        <title>Unicrow</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2013/01/01/Unicrow/</link>
+        <guid isPermaLink="true">http://localhost:4000/2013/01/01/Unicrow/</guid>
+      </item>
+    
+  </channel>
+</rss>
