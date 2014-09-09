@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fatih Turan</title>
-    <description>Arayüz ve Etkileşim Tasarımcısı</description>
+    <title>Fatih Turan — Arayüz ve Etkileşim Tasarımcısı</title>
+    <description>Fatih Turan&#39;ın çalışmalarının ve kendisi hakkında bilgi yer aldığı kişisel web sitesi.</description>
     <link>http://fatihturan.github.io/</link>
     <atom:link href="http://fatihturan.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
