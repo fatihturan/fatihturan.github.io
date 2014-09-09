@@ -3,16 +3,16 @@
   <channel>
     <title>Fatih Turan — Arayüz ve Etkileşim Tasarımcısı</title>
     <description>Fatih Turan&#39;ın çalışmalarının ve kendisi hakkında bilgi yer aldığı kişisel web sitesi.</description>
-    <link>http://fatihturan.github.io/</link>
-    <atom:link href="http://fatihturan.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://fatihturan.com/</link>
+    <atom:link href="http://fatihturan.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Js Py</title>
         <description>
 </description>
         <pubDate>Thu, 03 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://fatihturan.github.io/2014/07/03/Js-Py/</link>
-        <guid isPermaLink="true">http://fatihturan.github.io/2014/07/03/Js-Py/</guid>
+        <link>http://fatihturan.com/2014/07/03/Js-Py/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2014/07/03/Js-Py/</guid>
       </item>
     
       <item>
@@ -20,8 +20,8 @@
         <description>
 </description>
         <pubDate>Wed, 02 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://fatihturan.github.io/2014/07/02/Koding/</link>
-        <guid isPermaLink="true">http://fatihturan.github.io/2014/07/02/Koding/</guid>
+        <link>http://fatihturan.com/2014/07/02/Koding/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2014/07/02/Koding/</guid>
       </item>
     
       <item>
@@ -29,8 +29,8 @@
         <description>
 </description>
         <pubDate>Tue, 01 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://fatihturan.github.io/2014/07/01/Radity/</link>
-        <guid isPermaLink="true">http://fatihturan.github.io/2014/07/01/Radity/</guid>
+        <link>http://fatihturan.com/2014/07/01/Radity/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2014/07/01/Radity/</guid>
       </item>
     
       <item>
@@ -38,8 +38,8 @@
         <description>
 </description>
         <pubDate>Tue, 01 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://fatihturan.github.io/2014/07/01/Mobil-Belediyecilik/</link>
-        <guid isPermaLink="true">http://fatihturan.github.io/2014/07/01/Mobil-Belediyecilik/</guid>
+        <link>http://fatihturan.com/2014/07/01/Mobil-Belediyecilik/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2014/07/01/Mobil-Belediyecilik/</guid>
       </item>
     
       <item>
@@ -47,8 +47,8 @@
         <description>
 </description>
         <pubDate>Mon, 30 Jun 2014 00:00:00 +0300</pubDate>
-        <link>http://fatihturan.github.io/2014/06/30/pollcraft/</link>
-        <guid isPermaLink="true">http://fatihturan.github.io/2014/06/30/pollcraft/</guid>
+        <link>http://fatihturan.com/2014/06/30/pollcraft/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2014/06/30/pollcraft/</guid>
       </item>
     
       <item>
@@ -56,8 +56,8 @@
         <description>
 </description>
         <pubDate>Sun, 29 Jun 2014 00:00:00 +0300</pubDate>
-        <link>http://fatihturan.github.io/2014/06/29/sivrisinema/</link>
-        <guid isPermaLink="true">http://fatihturan.github.io/2014/06/29/sivrisinema/</guid>
+        <link>http://fatihturan.com/2014/06/29/sivrisinema/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2014/06/29/sivrisinema/</guid>
       </item>
     
       <item>
@@ -65,8 +65,8 @@
         <description>
 </description>
         <pubDate>Fri, 01 Mar 2013 00:00:00 +0200</pubDate>
-        <link>http://fatihturan.github.io/2013/03/01/kgt/</link>
-        <guid isPermaLink="true">http://fatihturan.github.io/2013/03/01/kgt/</guid>
+        <link>http://fatihturan.com/2013/03/01/kgt/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2013/03/01/kgt/</guid>
       </item>
     
       <item>
@@ -74,8 +74,8 @@
         <description>
 </description>
         <pubDate>Fri, 01 Feb 2013 00:00:00 +0200</pubDate>
-        <link>http://fatihturan.github.io/2013/02/01/Triponi/</link>
-        <guid isPermaLink="true">http://fatihturan.github.io/2013/02/01/Triponi/</guid>
+        <link>http://fatihturan.com/2013/02/01/Triponi/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2013/02/01/Triponi/</guid>
       </item>
     
       <item>
@@ -83,8 +83,8 @@
         <description>
 </description>
         <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
-        <link>http://fatihturan.github.io/2013/01/01/Unicrow/</link>
-        <guid isPermaLink="true">http://fatihturan.github.io/2013/01/01/Unicrow/</guid>
+        <link>http://fatihturan.com/2013/01/01/Unicrow/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2013/01/01/Unicrow/</guid>
       </item>
     
   </channel>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<!-- Site/Blog Indexes -->
+	<url>
+		<loc>http://fatihturan.com</loc>
+		<lastmod>2014-09-09T14:25:18+03:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://fatihturan.com/hakkimda/</loc>
+		<lastmod>2014-09-09T14:25:18+03:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://fatihturan.com/calismalarim/</loc>
+		<lastmod>2014-09-09T14:25:18+03:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>http://fatihturan.com/iletisim/</loc>
+		<lastmod>2014-09-09T14:25:18+03:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+</urlset>
