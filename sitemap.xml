@@ -4,25 +4,25 @@
 	<!-- Site/Blog Indexes -->
 	<url>
 		<loc>http://fatihturan.com</loc>
-		<lastmod>2016-01-31T21:41:46+02:00</lastmod>
+		<lastmod>2016-01-31T21:42:50+02:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://fatihturan.com/hakkimda/</loc>
-		<lastmod>2016-01-31T21:41:46+02:00</lastmod>
+		<lastmod>2016-01-31T21:42:50+02:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://fatihturan.com/calismalarim/</loc>
-		<lastmod>2016-01-31T21:41:46+02:00</lastmod>
+		<lastmod>2016-01-31T21:42:50+02:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>http://fatihturan.com/iletisim/</loc>
-		<lastmod>2016-01-31T21:41:46+02:00</lastmod>
+		<lastmod>2016-01-31T21:42:50+02:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
