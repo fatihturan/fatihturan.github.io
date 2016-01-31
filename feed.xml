@@ -1,18 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fatih Turan — Arayüz ve Etkileşim Tasarımcısı</title>
-    <description>Fatih Turan&#39;ın çalışmalarının ve kendisi hakkında bilgi yer aldığı kişisel web sitesi.</description>
+    <title>Fatih Turan — User Interface &amp; Interaction Designer</title>
+    <description>Personal web page for Fatih Turan&#39;s bio &amp; works.</description>
     <link>http://fatihturan.com/</link>
     <atom:link href="http://fatihturan.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Gloria</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Nov 2015 00:00:00 +0300</pubDate>
+        <link>http://fatihturan.com/2015/11/01/gloria/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2015/11/01/gloria/</guid>
+      </item>
+    
+      <item>
+        <title>Octodeck</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
+        <link>http://fatihturan.com/2015/10/01/octodeck/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2015/10/01/octodeck/</guid>
+      </item>
+    
+      <item>
+        <title>Kodla</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Apr 2015 00:00:00 +0300</pubDate>
+        <link>http://fatihturan.com/2015/04/01/kodla/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2015/04/01/kodla/</guid>
+      </item>
+    
+      <item>
+        <title>Handsapp</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+        <link>http://fatihturan.com/2015/01/01/handsapp/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2015/01/01/handsapp/</guid>
+      </item>
     
       <item>
         <title>Js Py</title>
         <description>
 </description>
         <pubDate>Thu, 03 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://fatihturan.com/2014/07/03/Js-Py/</link>
-        <guid isPermaLink="true">http://fatihturan.com/2014/07/03/Js-Py/</guid>
+        <link>http://fatihturan.com/2014/07/03/js-py/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2014/07/03/js-py/</guid>
       </item>
     
       <item>
@@ -20,8 +56,8 @@
         <description>
 </description>
         <pubDate>Wed, 02 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://fatihturan.com/2014/07/02/Koding/</link>
-        <guid isPermaLink="true">http://fatihturan.com/2014/07/02/Koding/</guid>
+        <link>http://fatihturan.com/2014/07/02/koding/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2014/07/02/koding/</guid>
       </item>
     
       <item>
@@ -29,17 +65,17 @@
         <description>
 </description>
         <pubDate>Tue, 01 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://fatihturan.com/2014/07/01/Radity/</link>
-        <guid isPermaLink="true">http://fatihturan.com/2014/07/01/Radity/</guid>
+        <link>http://fatihturan.com/2014/07/01/radity/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2014/07/01/radity/</guid>
       </item>
     
       <item>
-        <title>Mobil Belediyecilik</title>
+        <title>Mobile Municipality App</title>
         <description>
 </description>
         <pubDate>Tue, 01 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://fatihturan.com/2014/07/01/Mobil-Belediyecilik/</link>
-        <guid isPermaLink="true">http://fatihturan.com/2014/07/01/Mobil-Belediyecilik/</guid>
+        <link>http://fatihturan.com/2014/07/01/mobile-municipality-app/</link>
+        <guid isPermaLink="true">http://fatihturan.com/2014/07/01/mobile-municipality-app/</guid>
       </item>
     
       <item>
@@ -58,33 +94,6 @@
         <pubDate>Sun, 29 Jun 2014 00:00:00 +0300</pubDate>
         <link>http://fatihturan.com/2014/06/29/sivrisinema/</link>
         <guid isPermaLink="true">http://fatihturan.com/2014/06/29/sivrisinema/</guid>
-      </item>
-    
-      <item>
-        <title>Kgt</title>
-        <description>
-</description>
-        <pubDate>Fri, 01 Mar 2013 00:00:00 +0200</pubDate>
-        <link>http://fatihturan.com/2013/03/01/kgt/</link>
-        <guid isPermaLink="true">http://fatihturan.com/2013/03/01/kgt/</guid>
-      </item>
-    
-      <item>
-        <title>Triponi</title>
-        <description>
-</description>
-        <pubDate>Fri, 01 Feb 2013 00:00:00 +0200</pubDate>
-        <link>http://fatihturan.com/2013/02/01/Triponi/</link>
-        <guid isPermaLink="true">http://fatihturan.com/2013/02/01/Triponi/</guid>
-      </item>
-    
-      <item>
-        <title>Unicrow</title>
-        <description>
-</description>
-        <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
-        <link>http://fatihturan.com/2013/01/01/Unicrow/</link>
-        <guid isPermaLink="true">http://fatihturan.com/2013/01/01/Unicrow/</guid>
       </item>
     
   </channel>
