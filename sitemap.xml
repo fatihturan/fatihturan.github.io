@@ -3,26 +3,26 @@
 
 	<!-- Site/Blog Indexes -->
 	<url>
-		<loc>http://fatihturan.com</loc>
-		<lastmod>2017-01-01T15:33:08+03:00</lastmod>
+		<loc>http://0.0.0.0:4000</loc>
+		<lastmod>2017-01-01T15:38:06+03:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>http://fatihturan.com/hakkimda/</loc>
-		<lastmod>2017-01-01T15:33:08+03:00</lastmod>
+		<loc>http://0.0.0.0:4000/hakkimda/</loc>
+		<lastmod>2017-01-01T15:38:06+03:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>http://fatihturan.com/calismalarim/</loc>
-		<lastmod>2017-01-01T15:33:08+03:00</lastmod>
+		<loc>http://0.0.0.0:4000/calismalarim/</loc>
+		<lastmod>2017-01-01T15:38:06+03:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>http://fatihturan.com/iletisim/</loc>
-		<lastmod>2017-01-01T15:33:08+03:00</lastmod>
+		<loc>http://0.0.0.0:4000/iletisim/</loc>
+		<lastmod>2017-01-01T15:38:06+03:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
